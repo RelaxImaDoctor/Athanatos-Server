@@ -1,0 +1,10 @@
+groups:
+ Guest:
+  default: true
+  prefix: '&e[Guest]'
+  permissions:
+  -modifyworld.* 
+  options:
+   rank: 1000
+ Member:
+ 
